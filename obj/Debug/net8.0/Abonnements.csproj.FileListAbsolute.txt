@@ -1,0 +1,14 @@
+D:\C#\Abonnements\bin\Debug\net8.0\Abonnements.exe
+D:\C#\Abonnements\bin\Debug\net8.0\Abonnements.deps.json
+D:\C#\Abonnements\bin\Debug\net8.0\Abonnements.runtimeconfig.json
+D:\C#\Abonnements\bin\Debug\net8.0\Abonnements.dll
+D:\C#\Abonnements\bin\Debug\net8.0\Abonnements.pdb
+D:\C#\Abonnements\obj\Debug\net8.0\Abonnements.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Abonnements\obj\Debug\net8.0\Abonnements.AssemblyInfoInputs.cache
+D:\C#\Abonnements\obj\Debug\net8.0\Abonnements.AssemblyInfo.cs
+D:\C#\Abonnements\obj\Debug\net8.0\Abonnements.csproj.CoreCompileInputs.cache
+D:\C#\Abonnements\obj\Debug\net8.0\Abonnements.dll
+D:\C#\Abonnements\obj\Debug\net8.0\refint\Abonnements.dll
+D:\C#\Abonnements\obj\Debug\net8.0\Abonnements.pdb
+D:\C#\Abonnements\obj\Debug\net8.0\Abonnements.genruntimeconfig.cache
+D:\C#\Abonnements\obj\Debug\net8.0\ref\Abonnements.dll
